@@ -1,6 +1,6 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
-    RewriteBase /appbarberia/
+    RewriteBase /uptaskmanager/
 
     # Redirige todo excepto archivos y directorios existentes
     RewriteCond %{REQUEST_FILENAME} !-f

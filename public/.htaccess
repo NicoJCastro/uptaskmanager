@@ -1,5 +1,5 @@
 RewriteEngine On
-RewriteBase /appbarberia/public/
+RewriteBase /uptaskmanager/public/
 
 # Asegúrate de que las solicitudes no apunten a un archivo o directorio existente
 RewriteCond %{REQUEST_FILENAME} !-f
